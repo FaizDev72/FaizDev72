@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faiz Ansari</h1>
 <h3 align="center">A passionate Full Stack Developer from India 🚀</h3>
 
-- 🔭 I’m currently working on [CloudCreek](https://github.com/FaizDev72/CloudCreek-Saas-Project-Nextjs)
+- 🔭 I’m currently working on MERN Stack and Cloud Technologies
 
 - 👯 I’m looking to collaborate on **Open-source projects, specifically related to MERN stack, Next.js, or SaaS development**
 
